@@ -1,0 +1,13 @@
+changed in both
+  base   100644 ecda9e4a2cc742109a7e1cb6a7d7f14a0d11c047 file1.txt
+  our    100644 f46309d27cce2123ec7c0492f6aa2a1ed1b18452 file1.txt
+  their  100644 cf41a737a50819f12cad1a7f91feb671a39ee1c4 file1.txt
+@@ -1,4 +1,8 @@
++<<<<<<< .our
+ one one line
++=======
++first line
++>>>>>>> .their
+ second line
+ third line
+ fourth line
